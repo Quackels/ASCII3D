@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+
+# Compiler output
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
